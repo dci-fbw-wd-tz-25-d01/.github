@@ -1,5 +1,7 @@
 ## Welcome to the team 🙌
 
+- [live-coding](https://github.com/dci-fbw-wd-tz-25-d01/live-coding)
+
 <!--
 
 **Here are some ideas to get you started:**
