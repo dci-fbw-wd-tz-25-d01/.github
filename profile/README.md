@@ -1,6 +1,6 @@
 ## Welcome to the team 🙌
 
-- [live-coding](https://github.com/dci-fbw-wd-tz-25-d01/live-coding)
+- [live-coding](https://github.com/dci-fbw-wd-tz-25-d01/live-code-v2)
 
 <!--
 
