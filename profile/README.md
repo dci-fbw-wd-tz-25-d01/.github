@@ -1,6 +1,4 @@
-## Welcome to the team 🙌
-
-# Live Code
+# Curriculum :godmode:
 
 ## User Interface Basics
 - [29.04.25 Box-Modell](https://github.com/dci-fbw-wd-tz-25-d01/Box-Modell)
