@@ -9,6 +9,7 @@
 - [12.05.25 FlexBox](https://github.com/dci-fbw-wd-tz-25-d01/flexbox)
 - [13.05.25 Flex-Elements](https://github.com/dci-fbw-wd-tz-25-d01/flex)
 - [19.05.25 Grid](https://github.com/dci-fbw-wd-tz-25-d01/grid)
+- [20.05.25 Pseudo](https://github.com/dci-fbw-wd-tz-25-d01/pseudo)
 
 ## Programming Basics
 
