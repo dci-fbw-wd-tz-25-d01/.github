@@ -15,6 +15,7 @@
 ## Programming Basics
 - [04.06.25 Intro](https://github.com/dci-fbw-wd-tz-25-d01/intro-pb)
 - [05.06.25 Loops](https://github.com/dci-fbw-wd-tz-25-d01/loops)
+- [10.06.25 Funktionen Methoden](https://github.com/dci-fbw-wd-tz-25-d01/functions)
 
 ## UUIB
 
