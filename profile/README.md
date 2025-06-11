@@ -16,7 +16,7 @@
 - [04.06.25 Intro](https://github.com/dci-fbw-wd-tz-25-d01/intro-pb)
 - [05.06.25 Loops](https://github.com/dci-fbw-wd-tz-25-d01/loops)
 - [11.06.25 Funktionen Methoden](https://github.com/dci-fbw-wd-tz-25-d01/functions)
-- [12.06.25 Funktionen Methoden](https://github.com/dci-fbw-wd-tz-25-d01/arrays-objekte)
+- [12.06.25 Arrays und Objekte](https://github.com/dci-fbw-wd-tz-25-d01/arrays-objekte)
 
 ## UUIB
 
