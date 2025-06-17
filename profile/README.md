@@ -17,6 +17,7 @@
 - [05.06.25 Loops](https://github.com/dci-fbw-wd-tz-25-d01/loops)
 - [11.06.25 Funktionen Methoden](https://github.com/dci-fbw-wd-tz-25-d01/functions)
 - [12.06.25 Arrays und Objekte](https://github.com/dci-fbw-wd-tz-25-d01/arrays-objekte)
+- [17.06.25 for schleifen](https://github.com/dci-fbw-wd-tz-25-d01/for-loops)
 
 ## UUIB
 
