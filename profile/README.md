@@ -22,6 +22,7 @@
 - [23.06.25 TypeScript Intro](https://github.com/dci-fbw-wd-tz-25-d01/ts-intro)
 
 ## UUIB
+- [07.07.2025 Intro](https://github.com/dci-fbw-wd-tz-25-d01/uii-intro)
 
 ## PRI
 
