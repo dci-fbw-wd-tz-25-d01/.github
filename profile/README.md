@@ -23,6 +23,7 @@
 
 ## UUIB
 - [07.07.2025 Intro](https://github.com/dci-fbw-wd-tz-25-d01/uii-intro)
+- [08.07.2025 Events](https://github.com/dci-fbw-wd-tz-25-d01/events)
 
 ## PRI
 
