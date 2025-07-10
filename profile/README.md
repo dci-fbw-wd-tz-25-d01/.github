@@ -25,6 +25,7 @@
 - [07.07.2025 Intro](https://github.com/dci-fbw-wd-tz-25-d01/uii-intro)
 - [08.07.2025 Events](https://github.com/dci-fbw-wd-tz-25-d01/events)
 - [09.07.2025 Events II](https://github.com/dci-fbw-wd-tz-25-d01/events-2)
+- [10.07.2025 Json-Local](https://github.com/dci-fbw-wd-tz-25-d01/json-local)
 
 ## PRI
 
