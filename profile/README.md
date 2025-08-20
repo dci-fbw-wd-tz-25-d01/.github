@@ -28,6 +28,7 @@
 - [10.07.2025 Json-Local](https://github.com/dci-fbw-wd-tz-25-d01/json-local)
 - [15.07.2025 fetch](https://github.com/dci-fbw-wd-tz-25-d01/fetching)
 - [12.08.2025 animation](https://github.com/dci-fbw-wd-tz-25-d01/animation)
+- [20.08.2025 recap-fetch](https://github.com/dci-fbw-wd-tz-25-d01/recap-fetch)
 
 ## PRI
 
