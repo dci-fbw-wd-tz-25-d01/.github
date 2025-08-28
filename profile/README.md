@@ -31,6 +31,7 @@
 - [20.08.2025 recap-fetch](https://github.com/dci-fbw-wd-tz-25-d01/recap-fetch)
 
 ## PRI
+- [28.08.2025 OOP-Intro](https://github.com/dci-fbw-wd-tz-25-d01/oop-intro)
 
 ## BEP
 
