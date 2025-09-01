@@ -32,6 +32,7 @@
 
 ## PRI
 - [28.08.2025 OOP-Intro](https://github.com/dci-fbw-wd-tz-25-d01/oop-intro)
+- [01.09.2025 Classes](https://github.com/dci-fbw-wd-tz-25-d01/classes)
 
 ## BEP
 
